@@ -5,4 +5,5 @@ def resalt():
     print(c)
 
 resalt()
+print ("haloy world")
     
